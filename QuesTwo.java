@@ -16,3 +16,9 @@ public class QuesTwo {
 		}
 		
 }
+
+/* output
+Original string- level
+Reverse string- level
+Given string is Palindrome
+*/
